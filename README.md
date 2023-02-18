@@ -1,2 +1,2 @@
 # Cloud_Formation_Task
-Creating  VPC, Public subnet, Private subnet and a new instance inside this VPC
+Creating  VPC, Public subnet, Private subnet and a new instance inside this VPC using AWS Cloud Formation
